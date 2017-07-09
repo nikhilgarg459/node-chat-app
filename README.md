@@ -1,4 +1,4 @@
-Steps to crete Heroku Project
+Steps to craete Heroku Project
 
 1. heroku create
 
