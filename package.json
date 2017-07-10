@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/nikhilgarg459/node-chat-app#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
   }
 }
